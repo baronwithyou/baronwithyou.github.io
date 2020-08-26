@@ -13,7 +13,6 @@ author:
 paginate: false
 ---
 
-# 分布式缓存笔记
 本章主要是对大牛写的 [分布式缓存](https://geektutu.com/post/geecache.html) 的思考和总结，希望能给正在学习的同学一点灵感。
 
 ## 第一天 缓存淘汰机制
